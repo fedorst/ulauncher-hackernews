@@ -1,6 +1,5 @@
 {
-    "manifest_version": "1",
-    "api_version": "1",
+    "required_api_version": "^2.0.0",
     "name": "HackerNews",
     "description": "Read the top stories on HackerNews",
     "developer_name": "Diogo Xavier",

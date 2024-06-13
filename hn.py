@@ -2,7 +2,7 @@ from preferences import Preferences
 import utils
 
 from threading import Thread
-from Queue import Queue
+from queue import Queue
 import datetime
 
 # TODO: Find a way to 'cancel' all working threads when the user changes his input
